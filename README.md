@@ -1,3 +1,3 @@
-# project-graph 各版本新手引导文件
+# 资源仓库
 
-注：1.8及其以前采用json文件作为工程文件格式，2.0之后采用prg文件作为文件格式。请根据软件版本下载不高于本软件版本的新手引导文件。
+此仓库的文件都会同步到 [assets.graphif.dev](https://assets.graphif.dev)
